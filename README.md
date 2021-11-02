@@ -1,1 +1,2 @@
-# TapFlagsKitV2
+# TapFlagsKit
+Kit with country flags
